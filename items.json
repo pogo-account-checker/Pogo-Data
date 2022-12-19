@@ -1,0 +1,302 @@
+{
+  "0": {
+    "name": "Unknown",
+    "desc": "A device for catching wild\nPokémon. It's thrown like a ball,\ncomfortably encapsulating its\ntarget."
+  },
+  "1": {
+    "name": "Poké Ball",
+    "desc": "A high-performance ball with a\nhigher catch rate than a standard\nPoké Ball."
+  },
+  "2": {
+    "name": "Great Ball",
+    "desc": "An ultra-performance ball with a\nhigher catch rate than a Great Ball."
+  },
+  "3": {
+    "name": "Ultra Ball",
+    "desc": "A spray-type medicine that\nrestores the HP of one Pokémon\nby 20 points."
+  },
+  "4": {
+    "name": "Master Ball",
+    "desc": ""
+  },
+  "5": {
+    "name": "Premier Ball",
+    "desc": ""
+  },
+  "101": {
+    "name": "Potion",
+    "desc": "A spray-type medicine that\nrestores the HP of one Pokémon\nby 50 points."
+  },
+  "102": {
+    "name": "Super Potion",
+    "desc": "A spray-type medicine that\nrestores the HP of one Pokémon\nby 200 points."
+  },
+  "103": {
+    "name": "Hyper Potion",
+    "desc": "A spray-type medicine that\ncompletely restores all HP of a\nsingle Pokémon."
+  },
+  "104": {
+    "name": "Max Potion",
+    "desc": "A medicine that can revive fainted\nPokémon. It also restores half of a\nfainted Pokémon's maximum HP."
+  },
+  "201": {
+    "name": "Revive",
+    "desc": "A medicine that can revive fainted\nPokémon. It also restores half of a\nfainted Pokémon's maximum HP."
+  },
+  "202": {
+    "name": "Max Revive",
+    "desc": "A medicine that can revive fainted\nPokémon. It also fully restores a\nfainted Pokémon's maximum HP."
+  },
+  "301": {
+    "name": "Lucky Egg",
+    "desc": "A Lucky Egg that's filled with\nhappiness! Earns double XP for 30\nminutes."
+  },
+  "401": {
+    "name": "Incense",
+    "desc": "Incense with a mysterious\nfragrance that lures wild Pokémon\nto your location for 30 minutes. Its\n appearance changes when\n attracting specific Pokémon."
+  },
+  "402": {
+    "name": "Incense Spicy",
+    "desc": ""
+  },
+  "403": {
+    "name": "Incense Cool",
+    "desc": ""
+  },
+  "404": {
+    "name": "Incense Floral",
+    "desc": ""
+  },
+  "405": {
+    "name": "Mystery Box",
+    "desc": "A mysterious old box. Opening it\ncauses a certain Pokémon to\nappear for a limited time."
+  },
+  "406": {
+    "name": "Daily Adventure Incense",
+    "desc": "Special Incense with a mysterious\nfragrance that attracts wild\nPokémon to your location as you\nmove for 15 minutes. You can\nreceive one each day at no cost."
+  },
+  "407": {
+    "name": "Incense Sparkly",
+    "desc": ""
+  },
+  "501": {
+    "name": "Lure Module",
+    "desc": "A module that attracts Pokémon to\na PokéStop for 30 minutes. The\neffect benefits other people nearby."
+  },
+  "502": {
+    "name": "Glacial Lure Module",
+    "desc": "A frosty Lure Module that attracts\nPokémon for 30 minutes, especially\nones that love the cold. It can also\ncause some Pokémon to evolve."
+  },
+  "503": {
+    "name": "Mossy Lure Module",
+    "desc": "A natural Lure Module that attracts\nPokémon for 30 minutes, especially\nones that love mossy scents. It can\nalso cause some Pokémon to\nevolve."
+  },
+  "504": {
+    "name": "Magnetic Lure Module",
+    "desc": "An electronic Lure Module that\nattracts Pokémon for 30 minutes,\nespecially ones that possess a\nmagnetic field. It can also cause\nsome Pokémon to evolve."
+  },
+  "505": {
+    "name": "Rainy Lure Module",
+    "desc": "A wet Lure Module that attracts Pokémon for\n30 minutes, especially ones that love the rain.\nIt can also cause some Pokémon to evolve."
+  },
+  "506": {
+    "name": "Sparkly Lure Module",
+    "desc": ""
+  },
+  "602": {
+    "name": "X Attack",
+    "desc": ""
+  },
+  "603": {
+    "name": "X Defense",
+    "desc": ""
+  },
+  "604": {
+    "name": "X Miracle",
+    "desc": ""
+  },
+  "701": {
+    "name": "Razz Berry",
+    "desc": "Feed this to a Pokémon to make it\neasier to catch."
+  },
+  "702": {
+    "name": "Bluk Berry",
+    "desc": ""
+  },
+  "703": {
+    "name": "Nanab Berry",
+    "desc": "Feed this to a Pokémon to calm it\ndown, making it less erratic."
+  },
+  "704": {
+    "name": "Wepar Berry",
+    "desc": ""
+  },
+  "705": {
+    "name": "Pinap Berry",
+    "desc": "Feed this to a Pokémon to receive\nmore Candy when you catch it."
+  },
+  "706": {
+    "name": "Golden Razz Berry",
+    "desc": "Feed this to a Pokémon to make it\nmuch easier to catch."
+  },
+  "707": {
+    "name": "Golden Pinap Berry",
+    "desc": ""
+  },
+  "708": {
+    "name": "Silver Pinap Berry",
+    "desc": "Feed this to a Pokémon to receive\nmore Candy when you catch it and\nmake it easier to catch."
+  },
+  "709": {
+    "name": "Poffin",
+    "desc": "A special treat for your buddy!"
+  },  
+  "801": {
+    "name": "Camera",
+    "desc": "A device to capture photos of\nPokémon. Photos can be shared\nwith others."
+  },
+  "901": {
+    "name": "Egg Incubator ∞",
+    "desc": "A device that incubates an Egg as\nyou walk until it's ready to hatch.\nUnlimited use!"
+  },
+  "902": {
+    "name": "Egg Incubator",
+    "desc": "A device that incubates an Egg as\nyou walk until it is ready to hatch.\nBreaks after 3 uses."
+  },
+  "903": {
+    "name": "Super Incubator",
+    "desc": "A more powerful Egg Incubator\nthat helps Eggs hatch quickly.\nBreaks after 3 uses."
+  },
+  "1001": {
+    "name": "Pokémon Storage Upgrade",
+    "desc": ""
+  },
+  "1002": {
+    "name": "Item Storage Upgrade",
+    "desc": ""
+  },
+  "1101": {
+    "name": "Sun Stone",
+    "desc": "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt burns as red as the evening sun."
+  },
+  "1102": {
+    "name": "Kings Rock",
+    "desc": "A rock that can make certain\nspecies of Pokémon evolve. It\nlooks like a crown."
+  },
+  "1103": {
+    "name": "Metal Coat",
+    "desc": "A coating that can make certain\nspecies of Pokémon evolve. It is a\nspecial metallic film."
+  },
+  "1104": {
+    "name": "Dragon Scale",
+    "desc": "A scale that can make certain\nspecies of Pokémon evolve. It is\nvery tough and inflexible."
+  },
+  "1105": {
+    "name": "Upgrade",
+    "desc": "A transparent device that can make\ncertain species of Pokémon evolve.\nIt was produced by Silph Co."
+  },
+  "1106": {
+    "name": "Sinnoh Stone",
+    "desc": "A special stone originally found in\nthe Sinnoh region that can make\ncertain species of Pokémon evolve.\nIt is very tough and has a beautiful\nsheen."
+  },
+  "1107": {
+    "name": "Unova Stone",
+    "desc": "A rare stone that originates from\nthe Unova region that can make\ncertain species of Pokémon evolve.\nIt is known for its intertwined\nblack-and-white appearance."
+  },
+  "1150": {
+    "name": "?????? Coin",
+    "desc": "A coin with a mysterious air. It\nseems to have originated in the\nPaldea region."
+  },
+  "1201": {
+    "name": "Fast TM",
+    "desc": "This Technical Machine teaches the\nPokémon a new Fast Attack."
+  },
+  "1202": {
+    "name": "Charged TM",
+    "desc": "This Technical Machine teaches the\nPokémon a new Charged Attack."
+  },
+  "1203": {
+    "name": "Elite Fast TM",
+    "desc": "This Technical Machine lets you\nchoose a Fast Attack to teach to a\nPokémon."
+  },
+  "1204": {
+    "name": "Elite Charge TM",
+    "desc": "This Technical Machine lets you\nchoose a Charged Attack to teach to\na Pokémon."
+  },  
+  "1301": {
+    "name": "Rare Candy",
+    "desc": "A mysterious candy. When used on\na Pokémon, it turns into the\nPokémon's Candy."
+  },
+  "1302": {
+    "name": "Rare Candy XL",
+    "desc": "A mysterious candy. When used on\na Pokémon, it turns into the\nPokémon's Candy XL."
+  },
+  "1401": {
+    "name": "Raid Pass",
+    "desc": "Pass to join a Raid Battle. You can\nget a free pass at Gyms once per\nday if you don't already have one."
+  },
+  "1402": {
+    "name": "Premium Battle Pass",
+    "desc": "A Premium Battle Pass can be used\nto join a Raid Battle or earn\npremium rewards in the GO Battle\nLeague."
+  },
+  "1403": {
+    "name": "EX Raid Pass",
+    "desc": "EX Raid Pass to join a special Raid\nBattle. You can use this pass only\nat the specified limited-time event."
+  },
+  "1404": {
+    "name": "Star Piece",
+    "desc": "A small shard of a beautiful gem.\nEarns 50% more Stardust for 30\nminutes."
+  },
+  "1405": {
+    "name": "Gift",
+    "desc": "A box that you can send to a friend.\nContains a variety of useful items."
+  },
+  "1406": {
+    "name": "Team Medallion",
+    "desc": "A unique coin that enables a Trainer\nto change teams. It can only be\npurchased once per 365 days."
+  },
+  "1408": {
+    "name": "Remote Raid Pass",
+    "desc": "A Remote Raid Pass can be used to\njoin a Raid Battle remotely."
+  },
+  "1501": {
+    "name": "Mysterious Component",
+    "desc": "This appears to be what Team GO\nRocket uses to hack PokéStops.\nDoes it have another use?"
+  },
+  "1502": {
+    "name": "Rocket Radar",
+    "desc": "You can use this to track down\nTeam GO Rocket Hideouts!"
+  },
+  "1503": {
+    "name": "Super Rocket Radar",
+    "desc": "You can use this to track down\nTeam GO Rocket Headquarters\nwhere their Boss might be!"
+  },
+  "1600": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1601": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1602": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1603": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1604": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1605": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  },
+  "1606": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event\nbonuses."
+  }
+}

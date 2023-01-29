@@ -175,6 +175,10 @@
     "name": "Item Storage Upgrade",
     "desc": ""
   },
+  "1003": {
+    "name": "Postcard Storage Upgrade",
+    "desc": ""
+  },
   "1101": {
     "name": "Sun Stone",
     "desc": "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt burns as red as the evening sun."

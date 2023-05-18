@@ -1282,5 +1282,13 @@
   "382": {
     "name": "Mystical Fire",
     "type": "Fire"
+  },
+  "383": {
+    "name": "Liquidation",
+    "type": "Water"
+  },
+  "385": {
+    "name": "Leafage",
+    "type": "Grass"
   }
 }

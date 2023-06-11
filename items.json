@@ -5,15 +5,15 @@
   },
   "1": {
     "name": "Poké Ball",
-    "desc": "A high-performance ball with a higher catch rate than a standard Poké Ball."
+    "desc": "A device for catching wild Pokémon. It's thrown like a ball, comfortably encapsulating its target."
   },
   "2": {
     "name": "Great Ball",
-    "desc": "An ultra-performance ball with a higher catch rate than a Great Ball."
+    "desc": "A high-performance ball with a higher catch rate than a standard Poké Ball."
   },
   "3": {
     "name": "Ultra Ball",
-    "desc": "A spray-type medicine that restores the HP of one Pokémon by 20 points."
+    "desc": "An ultra-performance ball with a higher catch rate than a Great Ball."
   },
   "4": {
     "name": "Master Ball",

@@ -1287,8 +1287,16 @@
     "name": "Liquidation",
     "type": "Water"
   },
+  "384": {
+    "name": "Dragon Ascent",
+    "type": "Flying"
+  },
   "385": {
     "name": "Leafage",
     "type": "Grass"
+  },
+  "386": {
+    "name": "Magma Storm",
+    "type": "Fire"
   }
 }

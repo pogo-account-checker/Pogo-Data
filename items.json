@@ -115,6 +115,14 @@
     "name": "X Miracle",
     "desc": ""
   },
+  "650": {
+    "name": "ITEM_BEANS",
+    "desc": ""
+  },
+  "651": {
+    "name": "ITEM_BREAKFAST",
+    "desc": ""
+  },
   "701": {
     "name": "Razz Berry",
     "desc": "Feed this to a Pokémon to make it easier to catch."
@@ -226,7 +234,11 @@
   "1204": {
     "name": "Elite Charge TM",
     "desc": "This Technical Machine lets you choose a Charged Attack to teach to a Pokémon."
-  },  
+  },
+  "1250": {
+    "name": "ITEM_MOVE_REROLL_OTHER_SPECIAL_ATTACK_A",
+    "desc": ""
+  },
   "1301": {
     "name": "Rare Candy",
     "desc": "A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy."

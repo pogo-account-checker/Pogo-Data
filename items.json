@@ -116,12 +116,12 @@
     "desc": ""
   },
   "650": {
-    "name": "ITEM_BEANS",
+    "name": "Zygarde Cell",
     "desc": ""
   },
   "651": {
-    "name": "ITEM_BREAKFAST",
-    "desc": ""
+    "name": "Zygarde Cube",
+    "desc": "An item in which Zygarde Cells are gathered. You can use it to change Zygarde's form. It can hold up to 250 Zygarde Cells."
   },
   "701": {
     "name": "Razz Berry",
@@ -216,7 +216,7 @@
     "desc": "A rare stone that originates from the Unova region that can make certain species of Pokémon evolve. It is known for its intertwined black-and-white appearance."
   },
   "1150": {
-    "name": "?????? Coin",
+    "name": "Gimmighoul Coins",
     "desc": "A coin with a mysterious air. It seems to have originated in the Paldea region."
   },
   "1201": {

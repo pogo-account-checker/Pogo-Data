@@ -2443,7 +2443,9 @@
     "66": "SPRING_2023_INSTINCT",
     "67": "NIGHTCAP",
     "68": "MAY_2023",
-    "69": "PI"
+    "69": "PI",
+    "70": "FALL_2023",
+    "71": "FALL_2023_NOEVOLVE"
   },
   "moves": {
     "0": "MOVE_UNSET",

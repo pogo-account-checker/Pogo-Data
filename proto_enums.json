@@ -2445,7 +2445,8 @@
     "68": "MAY_2023",
     "69": "PI",
     "70": "FALL_2023",
-    "71": "FALL_2023_NOEVOLVE"
+    "71": "FALL_2023_NOEVOLVE",
+    "72": "PI_NOEVOLVE"
   },
   "moves": {
     "0": "MOVE_UNSET",
@@ -2779,7 +2780,8 @@
     "390": "NATURES_MADNESS",
     "391": "TRIPLE_AXEL",
     "392": "TRAILBLAZE",
-    "393": "SCORCHING_SANDS"
+    "393": "SCORCHING_SANDS",
+    "394": "ROAR_OF_TIME"
   },
   "items": {
     "0": "ITEM_UNKNOWN",

@@ -2788,7 +2788,11 @@
     "391": "TRIPLE_AXEL",
     "392": "TRAILBLAZE",
     "393": "SCORCHING_SANDS",
-    "394": "ROAR_OF_TIME"
+    "394": "ROAR_OF_TIME",
+    "395": "BLEAKWIND_STORM",
+    "396": "SANDSEAR_STORM",
+    "397": "WILDBOLT_STORM",
+    "398": "SPIRIT_SHACKLE"
   },
   "items": {
     "0": "ITEM_UNKNOWN",

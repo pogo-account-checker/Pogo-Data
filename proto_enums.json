@@ -3967,5 +3967,14 @@
     "8": "GRUNTBM",
     "9": "EVENT_NPC",
     "10": "PLAYER_TEAM_LEADER"
+  },
+  "buddyLevels": {
+    "0": "BUDDY_LEVEL_UNSET",
+    "1": "BUDDY_LEVEL_0",
+    "2": "BUDDY_LEVEL_1",
+    "3": "BUDDY_LEVEL_2",
+    "4": "BUDDY_LEVEL_3",
+    "5": "BUDDY_LEVEL_4",
+    "6": "BUDDY_LEVEL_5"
   }
 }

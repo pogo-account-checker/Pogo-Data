@@ -4036,5 +4036,9 @@
     "4": "COMBAT_TYPE_NEARBY",
     "5": "COMBAT_TYPE_SOLO_INVASION",
     "6": "COMBAT_TYPE_VS_SEEKER"
+  },
+  "deviceTypes": {
+    "0": "NO_DEVICE",
+    "1": "WAINA"
   }
 }

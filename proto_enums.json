@@ -4040,5 +4040,9 @@
   "deviceTypes": {
     "0": "NO_DEVICE",
     "1": "WAINA"
+  },
+  "tappableTypes": {
+    "0": "TAPPABLE_TYPE_UNSET",
+    "1": "TAPPABLE_TYPE_BREAKFAST"
   }
 }

@@ -330,5 +330,9 @@
   "1608": {
     "name": "Ticket",
     "desc": "A ticket to access special event bonuses."
+  },
+  "1612": {
+    "name": "Ticket",
+    "desc": "A ticket to access special event bonuses."
   }
 }

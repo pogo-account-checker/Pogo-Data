@@ -2356,6 +2356,7 @@
     "2839": "PIKACHU_FLYING_06",
     "2840": "PIKACHU_FLYING_07",
     "2841": "PIKACHU_FLYING_08",
+    "2842": "PIKACHU_HORIZONS",
     "2981": "OINKOLOGNE_NORMAL",
     "2982": "OINKOLOGNE_FEMALE",
     "2983": "MAUSHOLD_FAMILY_OF_THREE",
@@ -2465,7 +2466,8 @@
     "71": "FALL_2023_NOEVOLVE",
     "72": "PI_NOEVOLVE",
     "73": "HOLIDAY_2023",
-    "74": "JAN_2024"
+    "74": "JAN_2024",
+    "75": "SPRING_2024"
   },
   "moves": {
     "0": "MOVE_UNSET",
@@ -2804,7 +2806,12 @@
     "395": "BLEAKWIND_STORM",
     "396": "SANDSEAR_STORM",
     "397": "WILDBOLT_STORM",
-    "398": "SPIRIT_SHACKLE"
+    "398": "SPIRIT_SHACKLE",
+    "399": "VOLT_TACKLE",
+    "400": "DARKEST_LARIAT",
+    "401": "PSYWAVE_FAST",
+    "402": "METAL_SOUND_FAST",
+    "403": "SAND_ATTACK_FAST"
   },
   "items": {
     "0": "ITEM_UNKNOWN",

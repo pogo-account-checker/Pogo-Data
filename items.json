@@ -247,6 +247,14 @@
     "name": "Rare Candy XL",
     "desc": "A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy XL."
   },
+  "1350": {
+    "name": "Lunar Fusion Energy",
+    "desc": ""
+  },
+  "1351": {
+    "name": "Solar Fusion Energy",
+    "desc": ""
+  },
   "1401": {
     "name": "Raid Pass",
     "desc": "Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one."

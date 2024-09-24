@@ -303,6 +303,10 @@
     "name": "Purified Gem",
     "desc": "A clear gem created by purifying and combining Shadow Shards. Use it to subdue enraged Shadow Raid Bosses."
   },
+  "1506": {
+    "name": "Max Particles",
+    "desc": ""
+  },
   "1600": {
     "name": "Ticket",
     "desc": "A ticket to access special event bonuses."

@@ -307,6 +307,10 @@
     "name": "Max Particles",
     "desc": ""
   },
+  "1507": {
+    "name": "ITEM_MP_REPLENISH",
+    "desc": ""
+  },
   "1600": {
     "name": "Ticket",
     "desc": "A ticket to access special event bonuses."

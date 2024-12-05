@@ -23,6 +23,10 @@
     "name": "Premier Ball",
     "desc": ""
   },
+  "7": {
+    "name": "GO Safari Ball",
+    "desc": ""
+  },
   "101": {
     "name": "Potion",
     "desc": "A spray-type medicine that restores the HP of one Pokémon by 50 points."
@@ -308,7 +312,7 @@
     "desc": ""
   },
   "1507": {
-    "name": "ITEM_MP_REPLENISH",
+    "name": "Max Particle Replenish",
     "desc": ""
   },
   "1600": {

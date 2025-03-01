@@ -450,5 +450,69 @@
   "1634": {
     "name": "Ticket",
     "desc": "A ticket to access special event bonuses."
+  },
+  "2001": {
+    "name": "Event Pass Point GO Tour 1",
+    "desc": "Event Pass Point GO Tour 1."
+  },
+  "2002": {
+    "name": "Event Pass Point GO Tour 2",
+    "desc": "Event Pass Point GO Tour 2."
+  },
+  "2003": {
+    "name": "Event Pass Point GO Tour 3",
+    "desc": "Event Pass Point GO Tour 3."
+  },
+  "2004": {
+    "name": "Event Pass Point GO Tour 4",
+    "desc": "Event Pass Point GO Tour 4."
+  },
+  "2021": {
+    "name": "Event Pass Point GO Fest 1",
+    "desc": "Event Pass Point GO Fest 1."
+  },
+  "2022": {
+    "name": "Event Pass Point GO Fest 2",
+    "desc": "Event Pass Point GO Fest 2."
+  },
+  "2023": {
+    "name": "Event Pass Point GO Fest 3",
+    "desc": "Event Pass Point GO Fest 3."
+  },
+  "2024": {
+    "name": "Event Pass Point GO Fest 4",
+    "desc": "Event Pass Point GO Fest 4."
+  },
+  "2041": {
+    "name": "Event Pass Point GO Wild Area 1",
+    "desc": "Event Pass Point GO Wild Area 1."
+  },
+  "2042": {
+    "name": "Event Pass Point GO Wild Area 2",
+    "desc": "Event Pass Point GO Wild Area 2."
+  },
+  "2043": {
+    "name": "Event Pass Point GO Wild Area 3",
+    "desc": "Event Pass Point GO Wild Area 3."
+  },
+  "2044": {
+    "name": "Event Pass Point GO Wild Area 4",
+    "desc": "Event Pass Point GO Wild Area 4."
+  },
+  "2101": {
+    "name": "Event Pass Point Live Ops 1",
+    "desc": "Event Pass Point Live Ops 1."
+  },
+  "2102": {
+    "name": "Event Pass Point Live Ops 2",
+    "desc": "Event Pass Point Live Ops 2."
+  },
+  "2103": {
+    "name": "Event Pass Point Live Ops 3",
+    "desc": "Event Pass Point Live Ops 3."
+  },
+  "2104": {
+    "name": "Event Pass Point Live Ops 4",
+    "desc": "Event Pass Point Live Ops 4."
   }
 }

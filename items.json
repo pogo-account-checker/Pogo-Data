@@ -55,6 +55,10 @@
     "name": "Lucky Egg",
     "desc": "A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes."
   },
+  "303": {
+    "name": "Lucky Trinket",
+    "desc": "A keepsake that strengthens bonds, allowing you to instantly become Lucky Friends with someone if you're Great Friends or higher."
+  },
   "401": {
     "name": "Incense",
     "desc": "Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes. Its  appearance changes when  attracting specific Pokémon."
@@ -257,6 +261,14 @@
   },
   "1351": {
     "name": "Solar Fusion Energy",
+    "desc": ""
+  },
+  "1352": {
+    "name": "Volt Fusion Energy",
+    "desc": ""
+  },
+  "1353": {
+    "name": "Blaze Fusion Energy",
     "desc": ""
   },
   "1401": {

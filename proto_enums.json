@@ -791,6 +791,7 @@
     "2318": "ZEKROM_NORMAL",
     "2321": "MELTAN_NORMAL",
     "2324": "MELMETAL_NORMAL",
+    "2325": "FALINKS_NORMAL",
     "2327": "WURMPLE_SPRING_2020",
     "2328": "WOBBUFFET_SPRING_2020",
     "2329": "RATICATE_SPRING_2020",
@@ -1207,7 +1208,8 @@
     "79": "FALL_2024",
     "80": "WINTER_2024",
     "81": "FASHION_2025",
-    "82": "HORIZONS_2025_NOEVOLVE"
+    "82": "HORIZONS_2025_NOEVOLVE",
+    "83": "ROYAL_NOEVOLVE"
   },
   "moves": {
     "0": "MOVE_UNSET",
@@ -1620,7 +1622,15 @@
     "469": "BEHEMOTH_BLADE",
     "470": "BEHEMOTH_BASH",
     "471": "UPPER_HAND",
-    "472": "THUNDER_CAGE"
+    "472": "THUNDER_CAGE",
+    "473": "VN_BM_054",
+    "474": "VN_BM_055",
+    "475": "VN_BM_056",
+    "476": "VN_BM_057",
+    "477": "VN_BM_058",
+    "478": "VN_BM_059",
+    "479": "VN_BM_060",
+    "480": "VN_BM_061"
   },
   "items": {
     "0": "ITEM_UNKNOWN",
@@ -3146,7 +3156,8 @@
     "95": "LC_2025_OSAKA_EVENT_004",
     "96": "LC_2025_OSAKA_EVENT_005",
     "97": "LC_2025_OSAKA_EVENT_006",
-    "98": "LC_2025_CHERRY_BLOSSOM_FESTIVAL"
+    "98": "LC_2025_CHERRY_BLOSSOM_FESTIVAL",
+    "99": "LC_2025_OSAKA_EVENT_007"
   },
   "raidLevels": {
     "0": "RAID_LEVEL_UNSET",

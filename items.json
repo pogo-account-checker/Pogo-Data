@@ -133,7 +133,7 @@
   },
   "651": {
     "name": "Zygarde Cube",
-    "desc": "An item in which Zygarde Cells are gathered. You can use it to change Zygarde's form. It can hold up to 250 Zygarde Cells."
+    "desc": "An item in which Zygarde Cells are gathered. You can use it to change Zygarde's form. It can hold up to 300 Zygarde Cells."
   },
   "701": {
     "name": "Razz Berry",
@@ -336,8 +336,8 @@
     "desc": ""
   },
   "1507": {
-    "name": "Max Particle Replenish",
-    "desc": ""
+    "name": "Max Particle Pack",
+    "desc": "A small pack of Max Particles. Each one holds 800 Max Particles."
   },
   "1600": {
     "name": "Ticket",

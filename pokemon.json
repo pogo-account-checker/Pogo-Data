@@ -24330,8 +24330,7 @@
     ]
   },
   "1011": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Dipplin",
     "types": [
       {
         "type": "Grass",
@@ -24341,109 +24340,109 @@
         "type": "Dragon",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 840
   },
   "1012": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Poltchageist",
     "types": [
       {
         "type": "Grass",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Ghost",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1012
   },
   "1013": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Sinistcha",
     "types": [
       {
         "type": "Grass",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Ghost",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1012
   },
   "1014": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Okidogi",
     "types": [
       {
-        "type": "Grass",
+        "type": "Poison",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Fighting",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1014,
+	"legendary": true
   },
   "1015": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Munkidori",
     "types": [
       {
-        "type": "Grass",
+        "type": "Poison",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Psychic",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1015,
+	"legendary": true
   },
   "1016": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Fezandipiti",
     "types": [
       {
-        "type": "Grass",
+        "type": "Poison",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Fairy",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1016,
+	"legendary": true
   },
   "1017": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Ogerpon",
     "types": [
       {
         "type": "Grass",
         "color": "#ffffff"
-      },
-      {
-        "type": "Dragon",
-        "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1017,
+	"legendary": true
   },
   "1018": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Archaludon",
     "types": [
       {
-        "type": "Grass",
+        "type": "Steel",
         "color": "#ffffff"
       },
       {
         "type": "Dragon",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 884
   },
   "1019": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Hydrapple",
     "types": [
       {
         "type": "Grass",
@@ -24453,90 +24452,89 @@
         "type": "Dragon",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 840
   },
   "1020": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Gouging Fire",
     "types": [
       {
-        "type": "Grass",
+        "type": "Fire",
         "color": "#ffffff"
       },
       {
         "type": "Dragon",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1020
   },
   "1021": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Raging Bolt",
     "types": [
       {
-        "type": "Grass",
+        "type": "Electric",
         "color": "#ffffff"
       },
       {
         "type": "Dragon",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1021
   },
   "1022": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Iron Boulder",
     "types": [
       {
-        "type": "Grass",
+        "type": "Rock",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Psychic",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1022
   },
   "1023": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Iron Crown",
     "types": [
       {
-        "type": "Grass",
+        "type": "Steel",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Psychic",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1023
   },
   "1024": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Terapagos",
     "types": [
       {
-        "type": "Grass",
-        "color": "#ffffff"
-      },
-      {
-        "type": "Dragon",
+        "type": "Normal",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1024,
+	"legendary": true
   },
   "1025": {
-    "name": "TODO",
-    "familyId": 1011,
+    "name": "Pecharunt",
     "types": [
       {
-        "type": "Grass",
+        "type": "Poison",
         "color": "#ffffff"
       },
       {
-        "type": "Dragon",
+        "type": "Ghost",
         "color": "#ffffff"
       }
-    ]
+    ],
+    "familyId": 1025,
+    "mythical": true
   }
 }

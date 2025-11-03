@@ -1,4 +1,14 @@
 {
+  "0": {
+    "name": "MissingNo.",
+    "familyId": 0,
+    "types": [
+      {
+        "type": "Normal",
+        "color": "#78c850"
+      }
+    ]
+  },
   "1": {
     "name": "Bulbasaur",
     "familyId": 1,

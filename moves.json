@@ -1375,8 +1375,104 @@
     "name": "Moongeist Beam",
     "type": "Ghost"
   },
+  "406": {
+    "name": "Aura Wheel",
+    "type": "Electric"
+  },
+  "407": {
+    "name": "Aura Wheel",
+    "type": "Dark"
+  },
   "408": {
     "name": "High Jump Kick",
     "type": "Fighting"
+  },
+  "462": {
+    "name": "Force Palm",
+    "type": "Fighting"
+  },
+  "463": {
+    "name": "Sparkling Aria",
+    "type": "Water"
+  },
+  "464": {
+    "name": "Rage Fist",
+    "type": "Ghost"
+  },
+  "465": {
+    "name": "Flower Trick",
+    "type": "Grass"
+  },
+  "466": {
+    "name": "Freeze Shock",
+    "type": "Ice"
+  },
+  "467": {
+    "name": "Ice Burn",
+    "type": "Ice"
+  },
+  "468": {
+    "name": "Torch Song",
+    "type": "Fire"
+  },
+  "469": {
+    "name": "Behemoth Blade",
+    "type": "Steel"
+  },
+  "470": {
+    "name": "Behemoth Bash",
+    "type": "Steel"
+  },
+  "471": {
+    "name": "Upper Hand",
+    "type": "Fighting"
+  },
+  "472": {
+    "name": "Thunder Cage",
+    "type": "Electric"
+  },
+  "481": {
+    "name": "Thunder Cage",
+    "type": "Electric"
+  },
+  "482": {
+    "name": "Dynamax Cannon",
+    "type": "Dragon"
+  },
+  "484": {
+    "name": "Clanging Scales",
+    "type": "Dragon"
+  },
+  "485": {
+    "name": "Crush Grip",
+    "type": "Normal"
+  },
+  "486": {
+    "name": "Dragon Energy",
+    "type": "Dragon"
+  },
+  "487": {
+    "name": "Aqua Step",
+    "type": "Water"
+  },
+  "488": {
+    "name": "Chilling Water",
+    "type": "Water"
+  },
+  "489": {
+    "name": "Secret Sword",
+    "type": "Fighting"
+  },
+  "490": {
+    "name": "Beak Blast",
+    "type": "Flying"
+  },
+  "491": {
+    "name": "Mind Blown",
+    "type": "Fire"
+  },
+  "492": {
+    "name": "Drum Beating",
+    "type": "Grass"
   }
 }

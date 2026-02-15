@@ -1994,7 +1994,8 @@
     "489": "SECRET_SWORD",
     "490": "BEAK_BLAST",
     "491": "MIND_BLOWN",
-    "492": "DRUM_BEATING"
+    "492": "DRUM_BEATING",
+    "493": "PYROBALL"
   },
   "items": {
     "0": "ITEM_UNKNOWN",

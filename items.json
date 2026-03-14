@@ -187,6 +187,10 @@
     "name": "Super Incubator",
     "desc": "A more powerful Egg Incubator that helps Eggs hatch quickly. Breaks after 3 uses."
   },
+  "904": {
+    "name": "Timed Incubator",
+    "desc": ""
+  },
   "1001": {
     "name": "Pokémon Storage Upgrade",
     "desc": ""
@@ -233,11 +237,15 @@
   },
   "1151": {
     "name": "Sweet Apple",
-    "desc": ""
+    "desc": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet. Apples can be found near PokéStops that have an active Mossy Lure Module."
   },
   "1152": {
     "name": "Tart Apple",
-    "desc": ""
+    "desc": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart. Apples can be found near PokéStops that have an active Mossy Lure Module."
+  },
+  "1155": {
+    "name": "Syrupy Apple",
+    "desc": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally syrupy."
   },
   "1201": {
     "name": "Fast TM",
